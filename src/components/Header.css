@@ -1,0 +1,21 @@
+.linha{
+    background: linear-gradient(to right, #f7c893, #fe9e32, #fe9e32, #f7c893);
+    height: 6px;
+    width: 100%;
+}
+
+.bg-warning{
+    font-weight: bold;
+    font-size: 0.8rem;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    padding: 2px;
+}
+
+.icon-rastreio{
+    height: 25px;
+    width: 25px;
+    padding: 3px;
+}
