@@ -1,4 +1,5 @@
 import { Link } from "react-router-dom"
+import { Image } from "react-bootstrap"
 import './Header.css'
 
 export default function Header() {
@@ -13,7 +14,7 @@ export default function Header() {
             <nav className="navbar navbar-expand-lg bg-body-tertiary">
                 <div className="container">
                     <a href="" className="navbar-brand">
-                        <img src="../images/logo.png" alt="Minha imagem"></img>
+                        <img src="https://lojaprati.com.br/cdn/shop/files/logo_700x300_3e175373-0a06-4efc-a037-f30865fabd45_195x@2x.png?v=1663352690" alt="logo" className="logo-loja"></img>
                     </a>
                     <button
                         className="navbar-toggler"
