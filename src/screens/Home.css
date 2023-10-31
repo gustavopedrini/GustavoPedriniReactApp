@@ -1,8 +1,27 @@
-.produto{
-    width: 100%;
+.slide{
     padding-bottom: 50px;
 }
 
-.container-body{
-    padding-top: 50px;
+.carousel-item img{
+    border-radius: 12px;
+}
+
+.produto{
+    box-shadow: rgb(207, 206, 206) 3px 3px 10px;
+
+    width: 200px;
+    height: 320px;
+    border-radius: 12px;
+
+    text-align: center;
+}
+
+.row{
+    display: flex;
+    justify-content: space-around;
+}
+
+.row-produtos{
+    padding: 10px;
+    border-radius: 12px;
 }

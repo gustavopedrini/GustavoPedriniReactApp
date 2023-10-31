@@ -1,3 +1,7 @@
+header{
+    margin-bottom: 50px;
+}
+
 .linha{
     background: linear-gradient(to right, #f7c893, #fe9e32, #fe9e32, #f7c893);
     height: 6px;
